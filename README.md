@@ -6,9 +6,9 @@ Inspired by Press This, share links across browsers
 This is a proof of concept for an idea I'm mulling over. Far from complete. But have fun if you like...
 
 ### To use:
-1) Install and activate plugin
-2) Go to the "Manager" in the "Airlinks" menu (/wp-admin/edit.php?post_type=wp_airlink&page=wp-airlinks)
-3) Create bookmarks from the bookmarklets
+1. Install and activate plugin
+2. Go to the "Manager" in the "Airlinks" menu (/wp-admin/edit.php?post_type=wp_airlink&page=wp-airlinks)
+3. Create bookmarks from the bookmarklets
 
 "Add link" will create a post of "Airlink" posttype.
 "View links" will show you the past 5 links (with option for more).
