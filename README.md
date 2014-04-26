@@ -14,7 +14,7 @@ This is a proof of concept for an idea I'm mulling over. Far from complete. But 
 "View links" will show you the past 5 links (with option for more).
 
 ### Future plans
-- "Add link" doesn't work with https.
+- "Add link" **does not** work with links on sites with https.
 - A browser plugin perhaps?
 - Woud be cool if the "Add link" were accessible from the Global wp.com admin bar.
 - The Link management page should give you an option to "Blog this" which would create a post with the link in it.
